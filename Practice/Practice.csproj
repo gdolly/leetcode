@@ -7,4 +7,12 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <PackageReference Include="xunit" Version="2.8.1" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Content Include=".csproj" />
+    </ItemGroup>
+
 </Project>

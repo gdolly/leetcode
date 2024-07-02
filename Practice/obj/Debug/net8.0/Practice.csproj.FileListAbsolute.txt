@@ -12,3 +12,10 @@ C:\Users\dolly\RiderProjects\Practice\Practice\obj\Debug\net8.0\refint\Practice.
 C:\Users\dolly\RiderProjects\Practice\Practice\obj\Debug\net8.0\Practice.pdb
 C:\Users\dolly\RiderProjects\Practice\Practice\obj\Debug\net8.0\Practice.genruntimeconfig.cache
 C:\Users\dolly\RiderProjects\Practice\Practice\obj\Debug\net8.0\ref\Practice.dll
+C:\Users\dolly\RiderProjects\Practice\Practice\obj\Debug\net8.0\Practice.csproj.AssemblyReference.cache
+C:\Users\dolly\RiderProjects\Practice\Practice\obj\Debug\net8.0\Practice.sourcelink.json
+C:\Users\dolly\RiderProjects\Practice\Practice\bin\Debug\net8.0\xunit.abstractions.dll
+C:\Users\dolly\RiderProjects\Practice\Practice\bin\Debug\net8.0\xunit.assert.dll
+C:\Users\dolly\RiderProjects\Practice\Practice\bin\Debug\net8.0\xunit.core.dll
+C:\Users\dolly\RiderProjects\Practice\Practice\bin\Debug\net8.0\xunit.execution.dotnet.dll
+C:\Users\dolly\RiderProjects\Practice\Practice\obj\Debug\net8.0\Practice.csproj.Up2Date

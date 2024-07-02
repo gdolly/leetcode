@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "ICbyYlxa7FJmHjghfqUegpKd6BHyemJ/xF6yymfgK52M52zsyJhduvkO7eGMBRQ9O01Q1wXRBlZTAwz9BKB2Ew==",
+  "dgSpecHash": "ffxat04lWCzJu2L1LVT/8Cw/NN7izdJlyir5Rgrs9XB5X485KFcpO4Q51s3i/htS/hih3ZBLg2N7o/gvc86Ddg==",
   "success": true,
   "projectFilePath": "C:\\Users\\dolly\\RiderProjects\\Practice\\Practice\\Practice.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\dolly\\.nuget\\packages\\xunit\\2.8.1\\xunit.2.8.1.nupkg.sha512",
+    "C:\\Users\\dolly\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\dolly\\.nuget\\packages\\xunit.analyzers\\1.14.0\\xunit.analyzers.1.14.0.nupkg.sha512",
+    "C:\\Users\\dolly\\.nuget\\packages\\xunit.assert\\2.8.1\\xunit.assert.2.8.1.nupkg.sha512",
+    "C:\\Users\\dolly\\.nuget\\packages\\xunit.core\\2.8.1\\xunit.core.2.8.1.nupkg.sha512",
+    "C:\\Users\\dolly\\.nuget\\packages\\xunit.extensibility.core\\2.8.1\\xunit.extensibility.core.2.8.1.nupkg.sha512",
+    "C:\\Users\\dolly\\.nuget\\packages\\xunit.extensibility.execution\\2.8.1\\xunit.extensibility.execution.2.8.1.nupkg.sha512"
+  ],
   "logs": []
 }
